@@ -18,20 +18,20 @@ It showcases fundamental **DevOps/DevSecOps skills** and is designed as a portfo
 ## Architecture Diagram
 
             ┌──────────────────────────────┐
-            │          Internet             │
+            │          Internet            │
             └─────────────┬────────────────┘
                           │ HTTP (80)
                           ▼
                 ┌─────────────────────┐
-                │     Security Group   │
-                │  (Allow 22 & 80)     │
+                │     Security Group  │
+                │  (Allow 22 & 80)    │
                 └───────────┬─────────┘
                             │
                             ▼
                 ┌─────────────────────┐
-                │      EC2 Instance    │
-                │   Amazon Linux 2     │
-                │ Running Apache HTTPD │
+                │      EC2 Instance   │
+                │   Amazon Linux 2    │
+                │ Running Apache HTTPD│
                 └───────────┬─────────┘
                             │
                             ▼
