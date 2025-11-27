@@ -5,7 +5,7 @@ Welcome to my portfolio! Here, I showcase hands-on projects in AWS, Linux, DevOp
 
 ## Projects
 
-### 1. EC2 Webserver Project
+### EC2 Webserver Project
 - Deploy a public web app on AWS EC2
 - Apache HTTP Server, security groups, Linux administration
 
